@@ -6,7 +6,7 @@ is only useful for the <a> tags only. Also, it is not useful when the visible te
   
   ### Some Useful Xpath Resource Link:
   
-  1. http://pragmatictestlabs.com/2018/05/16/mastering-xpath-for-selenium-test-automation/
+  1. Xpath Patterns http://pragmatictestlabs.com/2018/05/16/mastering-xpath-for-selenium-test-automation/
   2. XPath Axes Details https://www.w3schools.com/xml/xpath_axes.asp
   3. Xpath Syntaxing https://msdn.microsoft.com/en-us/library/ms256471(v=vs.110).aspx
   
